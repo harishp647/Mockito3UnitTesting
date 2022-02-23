@@ -1,0 +1,11 @@
+com\harish\mockito\test_doubles\mock\MockRepository.class
+com\harish\mockito\test_doubles\dummy\DummyEmail.class
+com\harish\mockito\test_doubles\dummy\DummyBookRepository.class
+com\harish\mockito\test_doubles\dummy\DummyTest.class
+com\harish\mockito\test_doubles\fake\FakeTest.class
+com\harish\mockito\test_doubles\spy\SpyTest.class
+com\harish\mockito\test_doubles\fake\FakeBookRepository.class
+com\harish\mockito\test_doubles\mock\MockTest.class
+com\harish\mockito\test_doubles\stub\TestStubBookRepository.class
+com\harish\mockito\test_doubles\stub\StubTest.class
+com\harish\mockito\test_doubles\spy\SpyBookRepository.class

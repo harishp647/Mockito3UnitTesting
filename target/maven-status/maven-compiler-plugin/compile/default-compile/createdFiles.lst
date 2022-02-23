@@ -1,0 +1,16 @@
+com\harish\mockito\test_doubles\dummy\BookService.class
+com\harish\mockito\test_doubles\spy\Book.class
+com\harish\mockito\test_doubles\fake\Book.class
+com\harish\mockito\test_doubles\dummy\EmailService.class
+com\harish\mockito\test_doubles\fake\BookRepository.class
+com\harish\mockito\test_doubles\stub\Book.class
+com\harish\mockito\test_doubles\mock\BookService.class
+com\harish\mockito\test_doubles\stub\BookRepository.class
+com\harish\mockito\test_doubles\dummy\BookRepoistory.class
+com\harish\mockito\test_doubles\spy\BookRepository.class
+com\harish\mockito\test_doubles\fake\BookService.class
+com\harish\mockito\test_doubles\dummy\Book.class
+com\harish\mockito\test_doubles\spy\BookService.class
+com\harish\mockito\test_doubles\stub\BookService.class
+com\harish\mockito\test_doubles\mock\Book.class
+com\harish\mockito\test_doubles\mock\BookRepository.class
